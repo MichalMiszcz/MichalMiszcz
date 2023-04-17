@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MichalMiszcz
-- 👀 I’m interested in computer science and making computer games
+- 👀 I’m interested in computer science, artificial intelligence and making computer games
+- 🏫 I'm student of Military University of Technology where I study Computer Science
 - 🌱 I’m currently learning Unity
 
 <!---
